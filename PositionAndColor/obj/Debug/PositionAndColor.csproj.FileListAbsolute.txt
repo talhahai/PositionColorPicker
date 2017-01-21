@@ -1,0 +1,8 @@
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\obj\Debug\PositionAndColor.Form1.resources
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\obj\Debug\PositionAndColor.Properties.Resources.resources
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\obj\Debug\PositionAndColor.csproj.GenerateResource.Cache
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\bin\Debug\PositionAndColor.exe
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\bin\Debug\PositionAndColor.pdb
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\obj\Debug\PositionAndColor.exe
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\obj\Debug\PositionAndColor.pdb
+D:\BSCS\Projects\PositionAndColor\PositionAndColor\obj\Debug\PositionAndColor.csprojResolveAssemblyReference.cache
